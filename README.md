@@ -1,1 +1,2 @@
-# cse470- Inventory management system
+# inventory-software
+inventory management software for business
