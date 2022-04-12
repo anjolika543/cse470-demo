@@ -1,1 +1,1 @@
-# cse470-demo
+# cse470- Inventory management system
